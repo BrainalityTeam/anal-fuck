@@ -10,6 +10,6 @@ class Mods
 
     public static function loadMods():Void
     {
-        
+        loadedMods = new Array();
     }
 }
